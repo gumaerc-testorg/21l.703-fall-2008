@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 45640890-f854-bc83-bf6b-4a31b0a7f68a
 resourcetype: Document
 title: "The Children\u2019s Hour Response"
 uid: 2a3da163-5204-4103-feeb-7f96eac998e7

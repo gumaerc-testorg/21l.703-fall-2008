@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 45640890-f854-bc83-bf6b-4a31b0a7f68a
 resourcetype: Document
 title: "Mrs. Warren\u2019s Profession Close Reading Revision"
 uid: 7292cc49-6194-7ead-06c3-2a53f2036e1d
