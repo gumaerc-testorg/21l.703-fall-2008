@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on course assignments and examples
+  of student work.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 45640890-f854-bc83-bf6b-4a31b0a7f68a
 ---
@@ -45,7 +50,7 @@ Naomi Stein
 {{< tdopen >}}
 
 
-Final draft ([PDF]({{< baseurl >}}/resources/finaldraft))
+Final draft ({{% resource_link 6ac8a340-c54c-1c39-6387-7a566406facf "PDF" %}})
 
 (Courtesy of Naomi Stein. Used with permission.)
 
@@ -60,11 +65,11 @@ MIT student
 {{< tdopen >}}
 
 
-Warrens close reading revision ([PDF]({{< baseurl >}}/resources/warencl_readrev))
+Warrens close reading revision ({{% resource_link 7292cc49-6194-7ead-06c3-2a53f2036e1d "PDF" %}})
 
-Research paper ([PDF]({{< baseurl >}}/resources/researchpaper))
+Research paper ({{% resource_link 4f6a9c57-cba7-8e48-f3e0-415ccf429f76 "PDF" %}})
 
-Childrens hour ([PDF]({{< baseurl >}}/resources/childrenshour))
+Childrens hour ({{% resource_link 2a3da163-5204-4103-feeb-7f96eac998e7 "PDF" %}})
 
 (Courtesy of MIT Student. Used with permission.)
 
