@@ -6,6 +6,7 @@ file: /courses/21l-703-studies-in-drama-too-hot-to-handle-forbidden-plays-in-mod
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Reactions to Corpus Christi as a Barometer of Predispositions and Interna
 uid: 4f6a9c57-cba7-8e48-f3e0-415ccf429f76
 ---
 Example of student work: research paper on reactions to Corpus Christi as a barometer of predispositions and internalization.
-

@@ -6,6 +6,7 @@ file: /courses/21l-703-studies-in-drama-too-hot-to-handle-forbidden-plays-in-mod
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "The Children\u2019s Hour Response"
 uid: 2a3da163-5204-4103-feeb-7f96eac998e7
 ---
 Example of student work: final draft of a 15-page paper project written by Naomi Stein.
-
