@@ -2,7 +2,7 @@
 content_type: resource
 description: "Example of student work: close reading revision on Mrs. Warren\u2019\
   s Profession."
-file: /ol-ocw-studio-app/courses/21l-703-studies-in-drama-too-hot-to-handle-forbidden-plays-in-modern-america-fall-2008/7292cc4961947ead06c32a53f2036e1d_warencl_readrev.pdf
+file: /courses/21l-703-studies-in-drama-too-hot-to-handle-forbidden-plays-in-modern-america-fall-2008/7292cc4961947ead06c32a53f2036e1d_warencl_readrev.pdf
 file_size: 33314
 file_type: application/pdf
 learning_resource_types:
