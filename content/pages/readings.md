@@ -12,7 +12,7 @@ uid: 845edb4f-1976-fa3d-9177-f667ed828758
 Texts
 -----
 
-Aristophanes. _Lysistrata and Other Plays_. New York, NY: Penguin Classics, 2003. ISBN: 9780140448146. \[{{% resource_link "e8c70c98-ed68-457a-8fa7-4b3448f18a3f" "Download" %}} a version of _Lysistrata_ from Project Gutenberg.\]
+Aristophanes. _Lysistrata and Other Plays_. New York, NY: Penguin Classics, 2003. ISBN: 9780140448146. \[[Download](http://www.gutenberg.org/etext/7700) a version of _Lysistrata_ from Project Gutenberg.\]
 
 Corrie, Rachel, Alan Rickman, and Katherine Viner. _My Name is Rachel Corrie_. 2nd ed. London, UK: Nick Hern Books, 2008. ISBN: 9781854599469.
 
@@ -28,7 +28,7 @@ Odets, Clifford. _Waiting for Lefty and Other Plays_. New York, NY: Grove Press,
 
 Parks, Suzan-Lori. _Topdog/Underdog_. New York, NY: Dramatist's Play Service, 2004. ISBN: 9780822219835.
 
-Shaw, George Bernard. _Mrs. Warren's Profession_. Edited by Kindle. Digireads.com, 2004. \[{{% resource_link "7399907f-d492-49bb-82cf-4a2a9df029b9" "Download" %}} a version of this work from Project Gutenberg.\]
+Shaw, George Bernard. _Mrs. Warren's Profession_. Edited by Kindle. Digireads.com, 2004. \[[Download](http://www.gutenberg.org/etext/1097) a version of this work from Project Gutenberg.\]
 
 Williams, Tennessee. _Streetcar Named Desire_. Edited by Jordan Yale Miller. Upper Saddle River, New Jersey: Prentice Hall, 1972. ISBN: 9780138514853.
 
@@ -36,39 +36,39 @@ Williams, Tennessee. _Streetcar Named Desire_. Edited by Jordan Yale Miller. Upp
 
 Aldgate, Anthony, and James T. Robinson. _Censorship in Theatre and Cinema_. Edinburgh, UK: Edinburgh University Press, 2005. ISBN: 9780748619610.
 
-Houchin, John H. _Censorship of the American Theatre in the Twentieth Century_. Cambridge, UK: Cambridge University Press, 2009. ISBN: 9780521108355. \[{{% resource_link "b9871893-ad2b-48e4-b454-d93382d0e99e" "Preview" %}} this book in Google Books.\]
+Houchin, John H. _Censorship of the American Theatre in the Twentieth Century_. Cambridge, UK: Cambridge University Press, 2009. ISBN: 9780521108355. \[[Preview](http://books.google.com/books?id=C_vVFHzvLpAC&pg=PAfrontcover) this book in Google Books.\]
 
 Sova, Dawn B. _Banned Plays_. New York, NY: Facts on File, 2004. ISBN: 9780816050703.
 
 **(Additional Background Reading on Censorship)**
 
-Mackay, Scott. "{{% resource_link "d19e05dc-1920-4263-a696-8454515831eb" "Author Visits Providence Production" %}}." _The Providence Journal_ (March 3, 2008): 1-2.
+Mackay, Scott. "[Author Visits Providence Production](http://www.projo.com/news/content/ensler_03-03-08_LI97N1T_v26.2a4ef9d.html)." _The Providence Journal_ (March 3, 2008): 1-2.
 
-Reardon, William R. "{{% resource_link "e589ffd6-5cc8-41dd-b99a-f5d199325824" "The Tradition behind Bostonian Censorship" %}}." _The Educational Theatre Journal_ 7, no. 2 (May 1955): 97-101.
+Reardon, William R. "[The Tradition behind Bostonian Censorship](http://www.jstor.org/pss/3203698)." _The Educational Theatre Journal_ 7, no. 2 (May 1955): 97-101.
 
-Taranto, James. "{{% resource_link "a5cbe795-3222-4a82-b97d-5176519d8f52" "The Prurience and Prejudice of Holly Hughes" %}}." _New York City Tribune_ (October 8, 1990).
+Taranto, James. "[The Prurience and Prejudice of Holly Hughes](http://www.jamestaranto.com/hughes.htm)." _New York City Tribune_ (October 8, 1990).
 
-Hammer, Joshua. "{{% resource_link "98cb4637-3a75-4755-97c4-a8fde7667386" "The Death of Rachel Corrie" %}}." _Mother Jones_ (September/October 2003): 1-11.
+Hammer, Joshua. "[The Death of Rachel Corrie](http://www.motherjones.com/politics/2003/09/death-rachel-corrie)." _Mother Jones_ (September/October 2003): 1-11.
 
-Shaw, Bernard. "{{% resource_link "d4fb1313-179f-4839-aad1-e89588ad0655" "Mrs. Warren's Profession. The Author's Apology" %}}." _The EServer Drama Collection_ (January 1902): 1-14.
+Shaw, Bernard. "[Mrs. Warren's Profession. The Author's Apology](http://www.gutenberg.org/ebooks/1097)." _The EServer Drama Collection_ (January 1902): 1-14.
 
-{{% resource_link "822194e3-eacb-4db6-89ee-599d5214681b" "Statement by Holly Hughes, plaintiff/respondent, on the U.S. Supreme Court \"Decency\" Ruling" %}}. (June 30, 1998): 1-2.
+[Statement by Holly Hughes, plaintiff/respondent, on the U.S. Supreme Court "Decency" Ruling](http://web.archive.org/web/20111008112939/http://www.csulb.edu/~jvancamp/doc29.html). (June 30, 1998): 1-2.
 
 **(Web Resources on Censorship)**
 
-D'Entremon, Jim. "{{% resource_link "03efccfc-0351-4c48-af9b-3d90a81d47ef" "Pilgrims' Progress: Boston's Gay History" %}}." _The Guide Magazine_, November 2007.
+D'Entremon, Jim. "[Pilgrims' Progress: Boston's Gay History](http://www.guidemag.com/magcontent/invokemagcontent.cfm?ID=211D6820-56B6-41CB-8DF1503C48C70284)." _The Guide Magazine_, November 2007.
 
 Havis, Allan. "American Political Plays and Culture Post 9/11." _Marshall Institute Blog_, September 5, 2007.
 
-Goodman, Amy, and Juan Gonzalez. "{{% resource_link "e0f993e4-b8af-4bd2-bd6b-e5d2a9a29466" "My Name is Rachel Corrie" %}}." _Democracy Now, TV/Radio News Program Debate_, March 22, 2006.
+Goodman, Amy, and Juan Gonzalez. "[My Name is Rachel Corrie](http://www.democracynow.org/2006/3/22/my_name_is_rachel_corrie_a)." _Democracy Now, TV/Radio News Program Debate_, March 22, 2006.
 
-Brantley, Ben. "{{% resource_link "7571aecd-4465-4f07-998d-7672c73b6907" "Celebrating Shaw…and Mrs. Warren's Profession" %}}." _The New York Times_, September 16, 2005.
+Brantley, Ben. "[Celebrating Shaw…and Mrs. Warren's Profession](http://www.nytimes.com/2005/09/16/theater/newsandfeatures/16shaw.html?_r=3)." _The New York Times_, September 16, 2005.
 
-Butterfield, Fox. "{{% resource_link "d9bca88d-40a7-4282-a085-0ee3775cb66b" "Boston Journal; In a Furor Over Photos, An Echo of City's Past" %}}." _The New York Times_, July 31, 1990.
+Butterfield, Fox. "[Boston Journal; In a Furor Over Photos, An Echo of City's Past](http://www.nytimes.com/1990/07/31/us/boston-journal-in-furor-over-photos-an-echo-of-city-s-past.html)." _The New York Times_, July 31, 1990.
 
-{{% resource_link "008b360f-451f-4640-9ac3-77e05e476e45" "_Banned in Boston_" %}}. Research Guide by Boston University Library.
+[_Banned in Boston_](http://library.bu.edu/c.php?g=571177&p=3937290). Research Guide by Boston University Library.
 
-{{% resource_link "22ff6a1b-d23b-4815-a344-85b9d1871fb7" "_Defending Reproductive Rights in Cyberspace_" %}}. American Civil Liberties Union, October 31, 1996.
+[_Defending Reproductive Rights in Cyberspace_](http://www.aclu.org/reproductiverights/gen/16532res19961031.html). American Civil Liberties Union, October 31, 1996.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -97,7 +97,7 @@ Overview; questions; what's "obscene"?
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Shaw, Bernard. {{% resource_link "7399907f-d492-49bb-82cf-4a2a9df029b9" "_Mrs. Warren's Profession_" %}} (1893).
+Shaw, Bernard. [_Mrs. Warren's Profession_](http://www.gutenberg.org/etext/1097) (1893).
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -144,7 +144,7 @@ US Code: obscene materials (current law) 1460; 1461; US Statutes: obscene litera
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Ibsen, Henrik. {{% resource_link "881b7b95-9fcb-473f-aa28-d2662526f27a" "_Ghosts_" %}} (1881).
+Ibsen, Henrik. [_Ghosts_](http://www.gutenberg.org/etext/2467) (1881).
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -153,7 +153,7 @@ Ibsen, Henrik. {{% resource_link "881b7b95-9fcb-473f-aa28-d2662526f27a" "_Ghosts
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Aristophanes. {{% resource_link "e8c70c98-ed68-457a-8fa7-4b3448f18a3f" "_Lysistrata_" %}} (411 BCE).
+Aristophanes. [_Lysistrata_](http://www.gutenberg.org/etext/7700) (411 BCE).
 {{< tdclose >}}
 
 {{< trclose >}}
